@@ -13,7 +13,7 @@ int main(){
     int *ptr;
     int num=10;
     ptr=&num;
-    pointer(&num);
+    pointer(ptr);
     printf("%d\n",num);
     
     // Correction
