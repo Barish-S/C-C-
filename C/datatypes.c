@@ -9,7 +9,7 @@ int main(){
     double dbl=123883.220;
     bool bol=false;
     printf("Value Of Name: %c\n",name);
-    printf("Value Of Number: %d\n",name);
+    printf("Value Of Number: %d\n",num);
     printf("Value Of Decimal: %f\n",deci);
     printf("Value Of Decimal: %lf\n",dbl);
     printf("Value Of Boolean: %d\n",bol);
