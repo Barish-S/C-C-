@@ -35,7 +35,7 @@ class Sample{     //Own Progaram
     };
     private:
     void getin(int a, int b){
-        int c = a=b;
+        int c = a+b;
         printf("%d\n",c);
     }
 

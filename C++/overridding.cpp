@@ -15,8 +15,10 @@ class SecondClass:public FirstClass{
 };  
 
 int main(){
-    FirstClass* ptr=new SecondClass();
-    ptr->number();
-    FirstClass* ptr1=new FirstClass();
-    ptr1->number();
+    // FirstClass* ptr=new SecondClass();
+    // ptr->number();
+    // FirstClass* ptr1=new FirstClass();
+    // ptr1->number();
+    FirstClass obj;
+    obj.number();
 }

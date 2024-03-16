@@ -28,4 +28,5 @@ int main() {
     std::cout << "Value in obj1: " << *(obj1.ptr) << std::endl;
     std::cout << "Value in obj2: " << *(obj2.ptr) << std::endl;
 
+
 }

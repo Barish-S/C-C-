@@ -49,7 +49,7 @@ class C:public B{
 };
 
 int main(){
-    char val='C';
+    char val='B';
     A* ptr=new C();
     switch(val){
         case 'A':
